@@ -1,2 +1,2 @@
-# Stats507: Data Science and Analytics using Pythong
+# STATS 507: Data Science and Analytics using Pythong
 Repo for homework assignments and projects for STATS 507 at University of Michigan, Winter 2025 semester. This course surveys popular tools among data scientists and starts with an accelerated intro to programming in Python before moving onto Python's computing stack. This repo will be used to store my homework from the class and a final project at the end.
